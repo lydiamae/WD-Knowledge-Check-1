@@ -289,6 +289,10 @@ footer {
 .aboutme-photo {
     width: 100%;
     max-width: 320px;
+    max-height: 320px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 10%;
 }
 
 
